@@ -2,7 +2,7 @@
 $('.team-carousel').owlCarousel({
   loop:true,
   margin:30,
-  autoplay: false,
+  autoplay: true,
   autoplayTimeout: 5000,
   nav:true,
   dots:false,
